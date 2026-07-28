@@ -1,11 +1,11 @@
 namespace CICDBusinessCentralTesting.CICDBusinessCentralTesting;
 
-page 50100 "Sample page"
+page 50101 "Sample page2"
 {
     ApplicationArea = All;
-    Caption = 'Sample page';
+    Caption = 'Sample page2';
     PageType = Card;
-
+    
     layout
     {
         area(Content)
@@ -13,8 +13,7 @@ page 50100 "Sample page"
             group(General)
             {
                 Caption = 'General';
-                // this is sample to commit
-
+                
             }
         }
     }
